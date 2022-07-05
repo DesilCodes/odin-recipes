@@ -1,0 +1,28 @@
+body {
+    background-color:beige;
+}
+
+
+.heading {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.list {
+    background-color: palegreen;
+    font-size: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li {
+    padding: 10px;
+}
